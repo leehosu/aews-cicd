@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: myweb
   labels:
-    gitadd : webedit
+    gitadd : lakescript
 spec:
   replicas: 4
   selector:
